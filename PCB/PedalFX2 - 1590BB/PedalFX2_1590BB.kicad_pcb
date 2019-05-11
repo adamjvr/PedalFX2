@@ -1222,6 +1222,8 @@
     )
   )
 
+  (gr_line (start 149.15 109.9) (end 154.75 109.9) (layer Edge.Cuts) (width 0.2) (tstamp 5CDAB8F6))
+  (gr_line (start 160.35 109.9) (end 154.75 109.9) (layer Edge.Cuts) (width 0.2) (tstamp 5CDAB8F6))
   (gr_line (start 202.3 142.8) (end 202.3 149.8) (layer Margin) (width 0.15) (tstamp 5CD6AC17))
   (gr_line (start 211.8 142.8) (end 202.3 142.8) (layer Margin) (width 0.15))
   (gr_line (start 211.8 113.2) (end 211.8 142.8) (layer Margin) (width 0.15))
@@ -1236,8 +1238,6 @@
   (gr_line (start 202.3 149.8) (end 107.2 149.8) (layer Margin) (width 0.15))
   (gr_line (start 146.65 113) (end 97.5 113) (layer Edge.Cuts) (width 0.2) (tstamp 5CD58BD5))
   (gr_line (start 162.85 113) (end 212 113) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 154.75 109.9) (end 149.15 109.9) (layer Edge.Cuts) (width 0.2) (tstamp 5CD58B34))
-  (gr_line (start 154.75 109.9) (end 160.35 109.9) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 146.65 113) (end 149.15 109.9) (layer Edge.Cuts) (width 0.2) (tstamp 5CD582AD))
   (gr_line (start 160.35 109.9) (end 162.85 113) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 97.5 143) (end 97.5 113) (layer Edge.Cuts) (width 0.2) (tstamp 5CD54E47))

@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 25)
+    (drawings 35)
     (tracks 61)
     (zones 0)
     (modules 12)
@@ -1222,6 +1222,16 @@
     )
   )
 
+  (gr_line (start 113.5 48) (end 113.5 108.1) (layer Edge.Cuts) (width 0.2) (tstamp 5CD78687))
+  (gr_line (start 202.5 48) (end 202.5 108.1) (layer Edge.Cuts) (width 0.2) (tstamp 5CD78681))
+  (gr_line (start 163.6 105) (end 166.1 108.1) (layer Edge.Cuts) (width 0.2) (tstamp 5CD7848B))
+  (gr_line (start 161 105) (end 163.6 105) (layer Edge.Cuts) (width 0.2) (tstamp 5CD7848A))
+  (gr_line (start 166.1 108.1) (end 202.5 108.1) (layer Edge.Cuts) (width 0.2) (tstamp 5CD78489))
+  (gr_line (start 149.9 108.1) (end 152.4 105) (layer Edge.Cuts) (width 0.2) (tstamp 5CD77CBD))
+  (gr_line (start 155 105) (end 152.4 105) (layer Edge.Cuts) (width 0.2) (tstamp 5CD77CBC))
+  (gr_line (start 149.9 108.1) (end 113.5 108.1) (layer Edge.Cuts) (width 0.2) (tstamp 5CD77CBB))
+  (gr_line (start 155 107.85) (end 155 105) (layer Edge.Cuts) (width 0.2) (tstamp 5CD774F1))
+  (gr_line (start 161 107.85) (end 161 105) (layer Edge.Cuts) (width 0.2) (tstamp 5CD76F17))
   (gr_line (start 166 111.15) (end 202.3 111.15) (layer Margin) (width 0.15) (tstamp 5CD6A48C))
   (gr_line (start 202.3 142.8) (end 202.3 111.15) (layer Margin) (width 0.15) (tstamp 5CD6A489))
   (gr_line (start 202.3 142.8) (end 192.8 142.8) (layer Margin) (width 0.15) (tstamp 5CD6A47D))
@@ -1243,8 +1253,8 @@
   (gr_line (start 163.5 108.05) (end 166 111.15) (layer Margin) (width 0.15))
   (gr_line (start 152.5 108.05) (end 163.5 108.05) (layer Margin) (width 0.15))
   (gr_line (start 150 111.15) (end 152.5 108.05) (layer Margin) (width 0.15))
-  (gr_line (start 158 107.85) (end 152.4 107.85) (layer Edge.Cuts) (width 0.2) (tstamp 5CD58B34))
-  (gr_line (start 158 107.85) (end 163.6 107.85) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 155 107.85) (end 152.4 107.85) (layer Edge.Cuts) (width 0.2) (tstamp 5CD58B34))
+  (gr_line (start 161 107.85) (end 163.6 107.85) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 149.9 110.95) (end 152.4 107.85) (layer Edge.Cuts) (width 0.2) (tstamp 5CD582AD))
   (gr_line (start 163.6 107.85) (end 166.1 110.95) (layer Edge.Cuts) (width 0.2))
 
