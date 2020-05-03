@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PedalFX2_1590N1-rescue)(type Legacy)(uri ${KIPRJMOD}/PedalFX2_1590N1-rescue.lib)(options "")(descr ""))
+  (lib (name PedalFX2_1590A-rescue)(type Legacy)(uri ${KIPRJMOD}/PedalFX2_1590A-rescue.lib)(options "")(descr ""))
+)
