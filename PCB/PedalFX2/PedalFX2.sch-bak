@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:PedalFX2-cache
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -14,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L PedalFX2-rescue:ACJS-MHDR-Connectors T1
+L Connectors:ACJS-MHDR T1
 U 1 1 5D0841AB
 P 3450 2900
 F 0 "T1" H 2600 3150 50  0000 C CNN
@@ -50,7 +51,7 @@ F 28 "*" H 5950 7000 50  0001 C CNN "Management_ID"
 	1    0    0    -1  
 $EndComp
 $Comp
-L PedalFX2-rescue:ACJS-MHDR-Connectors T2
+L Connectors:ACJS-MHDR T2
 U 1 1 5D086FC4
 P 7900 2900
 F 0 "T2" H 7900 3150 50  0000 R CNN
@@ -86,7 +87,7 @@ F 28 "*" H 10400 7000 50  0001 C CNN "Management_ID"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L PedalFX2-rescue:3PDT-StompSwitch_Alt-Special SP1
+L Special:3PDT-StompSwitch_Alt SP1
 U 1 1 5CC88A6B
 P 6850 3300
 F 0 "SP1" H 6900 3450 50  0000 C CNN
@@ -122,7 +123,7 @@ F 28 "*" H 9250 5900 50  0001 C CNN "Management_ID"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L PedalFX2-rescue:3PDT-StompSwitch_Alt-Special SP1
+L Special:3PDT-StompSwitch_Alt SP1
 U 2 1 5CC8A2F6
 P 4600 3300
 F 0 "SP1" H 4550 3450 50  0000 C CNN
@@ -158,7 +159,7 @@ F 28 "*" H 7000 5900 50  0001 C CNN "Management_ID"
 	1    0    0    -1  
 $EndComp
 $Comp
-L PedalFX2-rescue:3PDT-StompSwitch_Alt-Special SP1
+L Special:3PDT-StompSwitch_Alt SP1
 U 3 1 5CC8BAC7
 P 3700 5150
 F 0 "SP1" H 3650 5300 50  0000 C CNN
@@ -249,7 +250,7 @@ Wire Wire Line
 Wire Wire Line
 	5850 3400 6200 3400
 $Comp
-L PedalFX2-rescue:RC1206FR-071ML-Resistors R2
+L Resistors:RC1206FR-071ML R2
 U 1 1 5CCA3CF5
 P 5150 3700
 F 0 "R2" V 5104 3788 50  0000 L CNN
@@ -288,7 +289,7 @@ Connection ~ 5150 3400
 Wire Wire Line
 	5150 3400 5550 3400
 $Comp
-L PedalFX2-rescue:RC1206FR-071ML-Resistors R3
+L Resistors:RC1206FR-071ML R3
 U 1 1 5CCA75A1
 P 6200 3700
 F 0 "R3" V 6154 3788 50  0000 L CNN
@@ -373,7 +374,7 @@ $EndComp
 Wire Wire Line
 	5750 3850 5750 4150
 $Comp
-L PedalFX2-rescue:RC1206FR-071KL-Resistors R1
+L Resistors:RC1206FR-071KL R1
 U 1 1 5CCB1B55
 P 4550 5250
 F 0 "R1" H 4550 5565 50  0000 C CNN
@@ -409,7 +410,7 @@ F 28 "RES SMD 1K OHM 1% 1/4W 1206" H 6950 7850 50  0001 C CNN "Description"
 	1    0    0    -1  
 $EndComp
 $Comp
-L PedalFX2-rescue:HLMP-4700-C0002-Special SP2
+L Special:HLMP-4700-C0002 SP2
 U 1 1 5CCB35C1
 P 5150 5250
 F 0 "SP2" H 5150 5449 50  0000 C CNN
@@ -604,7 +605,7 @@ F 28 "*" H 9300 7550 50  0001 C CNN "Management_ID"
 $EndComp
 Connection ~ 6900 4750
 $Comp
-L PedalFX2-rescue:54-00129-Connectors T3
+L Connectors:54-00129 T3
 U 1 1 5CD46A5A
 P 8650 4850
 F 0 "T3" H 8420 4900 50  0000 R CNN
@@ -652,7 +653,7 @@ Wire Wire Line
 Text Notes 7900 5300 0    50   ~ 0
 DC Power In and Filtering
 $Comp
-L PedalFX2-rescue:Hammond_1590B-Special SP3
+L Special:Hammond_1590B SP3
 U 1 1 5CD9AC8E
 P 2600 3850
 F 0 "SP3" H 2600 3900 50  0000 L CNN

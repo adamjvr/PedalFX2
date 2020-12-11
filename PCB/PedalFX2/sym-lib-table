@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PedalFX2-rescue)(type Legacy)(uri ${KIPRJMOD}/PedalFX2-rescue.lib)(options "")(descr ""))
+)
